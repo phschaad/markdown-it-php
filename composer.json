@@ -1,5 +1,5 @@
 {
-    "name": "kaoken/markdown-it-php",
+    "name": "phschaad/markdown-it-php",
     "description": "PHP version makdown-it",
     "keywords": [
         "markdown-it","markdown"
@@ -11,8 +11,8 @@
     },
     "authors": [
         {
-            "name": "kaoken",
-            "homepage": "https://github.com/kaoken/markdown-it-php"
+            "name": "phschaad",
+            "homepage": "https://github.com/phschaad/markdown-it-php"
         }
     ],
     "require-dev": {
